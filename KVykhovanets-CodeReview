@@ -1,0 +1,8 @@
+This one was actually similar to my program but when displaying the separate state details, mine was displayed in the default details view, but his was different (In a good way, he personalized it and the label that displays the info looks nice).
+Although this program is really similar to mine, I would prefer mine for a couple of reasons: I personalized the background and buttons and I kind of like the way that I organized mine more. For example, when choosing a state from the drop down I have to go and find the “Show State Info” or “Search” also works. Then when I search a state, I also have to find the search button, which isn’t under the search bar, but more towards the bottom left, while the search bar is in the top right. I also have to find the sort button to sort. Mixed with these buttons is also the update, filter, and exit buttons. (This is a minor issue but if it was fixed/organized, it would make a huge difference, in my opinion)
+^^In my program, I had the different options for sorting in a groupbox and the button to sort was directly under it.
+Seems as if all possible issues are handled and message boxes appear if the user does something that could cause an issue.
+One thing I would suggest is changing the background and design in general to be a bit less of the default design, just for aesthetic purposes
+Code does not lack comments, and they explain everything well. 
+Code compiles without any issues or warnings and I couldn’t find anything that will crash the program
+Overall, it is very good! I like the program itself and everything works exactly as intended. I also forgot to mention, but the search bar is a great addition. I like how you can use either the  drop box or search bar to search for a state.
